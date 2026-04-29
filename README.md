@@ -70,9 +70,8 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 ## 2.1 Title Page
 
 **Title:** Fundamentals of Generative AI and Large Language Models
-**Prepared by:** Student
-**Purpose:** Academic Submission
-**Audience:** Beginners / Students
+
+**Prepared by:** BALAMURUGAN S
 
 ---
 
